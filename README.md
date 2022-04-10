@@ -15,8 +15,6 @@ This article on medium explains the entire the process
 - [Tools and Libraries Used](#Tools-and-Libraries-Used)
 - [Files](#Files)
 - [Result](#Result)
-- [Dataset Information](#Dataset-Information)
-  - [Acknowledgements](#Acknowledgements)
 
 ## Motivation
 
@@ -34,10 +32,8 @@ This article on medium explains the entire the process
 **We will:**
 - Perform the Feature Engineering to make new featuers
 - Perform the Data Selection to select only relevant features
-- Tranform the Data (Categorial to Numerical)
-- Split the data (Train Test Split)
-- Model the data (Fit the Data)
-- And finally Evaluate our model
+- Visualize the data with the help of charts and graphs
+- Finally came with few insights by analyzing them .
 
 ## Tools and Libraries Used
 We have used Python 3 to its following packages:
@@ -45,7 +41,6 @@ We have used Python 3 to its following packages:
 - Matplotlib
 - Seaborn
 - Sklearn
-- pycountry
 
 ## Files
 This repository contains two files other than readme file
